@@ -1,0 +1,20 @@
+[
+  {
+    "name":"ddns-go",
+    "description":"自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。",
+    "home":"https://github.com/jeessy2/ddns-go",
+    "scripts":"ddns-go"
+  },
+  {
+    "name":"alist",
+    "description":"一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs",
+    "home":"https://github.com/alist-org/alist",
+    "scripts":"alist"
+  },
+  {
+    "name":"tty2web",
+    "description":"Share your terminal as a web application in bind/reverse mode",
+    "home":"https://github.com/kost/tty2web",
+    "scripts":"tty2web"
+  }
+]
